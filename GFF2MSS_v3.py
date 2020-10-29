@@ -5,11 +5,12 @@
 # ======================================================================
 # Project Name    : GFF2MSS
 # File Name       : GFF2MSS.py
-# Version       : 4.0.1
+# Version       : 4.1
 # Encoding        : python
-# Creation Date   : 2020/29/10
+# Creation Date   : 2020/29/30
 # Author : Taro Maeda 
 # Modified : Guillem Ylla
+# Modified date : 2020/29/10 
 # license     MIT License (http://opensource.org/licenses/mit-license.php)
 # This software is released under the MIT License, see LICENSE.
 # Copyright (c) 2019 Taro Maeda
