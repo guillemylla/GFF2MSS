@@ -5,9 +5,9 @@
 MSS (Mass Submission System) on DDBJ requires uniq annotation format file for data submission. I here made a python script converting the standard gff3 gene model file to the MSS annotation.  This script makes an MSS file from a gff3 file for gene modeling, a tsv file for annotation file, and a fasta file containing genomic sequence. We recommend pre-processing your gff3 data via [GFF3sort.pl](https://github.com/billzt/gff3sort), before your conversion. After the making of MSS file, you should fill "COMMON" entries (SUBMITTER, REFERENCE, etc.) before the submission for DDBJ. This software is a non-official converter for MSS. We do not guarantee that DDBJ accepts the generated files.
 
 
-## v.4.1
+## v.3.5
 
-- Modified by G. Y.
+- V3 Modified by G. Y.
 - Makes it faster by 1) only loading annotation file once and 2) creating a dictionary with scaffolds/contigs that do not have features of interest (CDS in my case) and skip the step to look for genes in tehs escaffolds
 
 ## v.4.0

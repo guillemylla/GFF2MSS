@@ -5,7 +5,7 @@
 # ======================================================================
 # Project Name    : GFF2MSS
 # File Name       : GFF2MSS.py
-# Version       : 4.1
+# Version       : 3.5
 # Encoding        : python
 # Creation Date   : 2020/29/30
 # Author : Taro Maeda 
